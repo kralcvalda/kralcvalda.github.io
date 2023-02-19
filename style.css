@@ -8,7 +8,7 @@ body{
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    tansform: scale(0.8);
+    transform: scale(0.8);
 }
 /*HEADER OF THE PAGE*/
 header{
