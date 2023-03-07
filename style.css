@@ -8,7 +8,7 @@ body{
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    zoom: 0.8;
+    min-width: 1263.33px;
 }
 /*HEADER OF THE PAGE*/
 header{
